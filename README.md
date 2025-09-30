@@ -48,7 +48,7 @@ kubectl logs <pod-name>
 ## Screenshots of:
 
 Installation
-  ![Bundle Image](images/1.png)
+![Bundle Image](images/1.png)
 
   ![Bundle Image](images/1.1.png)
 
