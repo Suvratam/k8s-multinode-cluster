@@ -59,7 +59,7 @@ kubectl get pods<br>
 kubectl get svc
   ![Bundle Image](images/3.png)
 
-  ![Bundle Image](images/3.2.png)
+  ![Bundle Image](images/2.png)
 
 
 ---
