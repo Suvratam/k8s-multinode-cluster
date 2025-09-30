@@ -75,9 +75,9 @@ Screenshot after scaling to 2 replicas.
 
 ---
 Screenshot of kubectl describe pod output.
-  ![Bundle Image](images/7.png)
+  ![Bundle Image](images/6.png)
 
-  ![Bundle Image](images/8.png)
+  ![Bundle Image](images/7.png)
 
 
 # Troubleshooting
